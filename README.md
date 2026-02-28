@@ -117,3 +117,8 @@ Conclusión: El análisis permitió identificar que la duración del contrato y 
 git clone <https://github.com/AnySeyer/Desafio_TelecomX_LATAM>
 
 ```
+---
+
+## 👨‍💻 Autor
+
+Proyecto desarrollado como parte de un desafío práctico en ALURALATAM_Data Science
